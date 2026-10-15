@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow PRO — Sprint & Focus Studio",
+  "description": "High-velocity Agile sprint workspace with interactive Kanban board, dense list view, AI subtask decomposition, Pomodoro focus studio with Web Audio soundscapes, and persistent local storage synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
